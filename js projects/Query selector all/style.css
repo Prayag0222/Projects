@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+button{
+    font-size: 40px;
+    padding: 20px;
+    margin: 20px; /* Added margin to create gaps between buttons */
+    border: none;
+  background-color: white;
+  cursor: pointer;
+}
